@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0, A&E
-http://tv.fibracat.cat/ae
+http://tv.fibracat.cat/ae,es
 #EXTINF:0, AMC
 http://tv.fibracat.cat/amc
 #EXTINF:0, Buzz
