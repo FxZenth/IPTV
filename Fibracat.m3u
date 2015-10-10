@@ -1,29 +1,29 @@
 #EXTM3U
 #EXTINF:0, A&E
 http://tv.fibracat.cat/ae
-#EXTINF:0, AMC
-http://tv.fibracat.cat/amc
+#EXTINF:0, AMC HD
+http://tv.fibracat.cat/amchd
 #EXTINF:0, Buzz
 http://tv.fibracat.cat/buzz
-#EXTINF:0, Canal Cocina
-http://tv.fibracat.cat/cocina
+#EXTINF:0, Canal Cocina HD
+http://tv.fibracat.cat/cocinahd
 #EXTINF:0, Crimen & Investigación
 http://tv.fibracat.cat/ci
-#EXTINF:0, DeCasa
-http://tv.fibracat.cat/decasa
-#EXTINF:0, Historia
-http://tv.fibracat.cat/historia
-#EXTINF:0, Hollywood
-http://tv.fibracat.cat/hollywood
+#EXTINF:0, DeCasa HD
+http://tv.fibracat.cat/decasahd
+#EXTINF:0, Historia HD
+http://tv.fibracat.cat/historiahd
+#EXTINF:0, Hollywood HD
+http://tv.fibracat.cat/hollywoodhd
 #EXTINF:0, Natura
 http://tv.fibracat.cat/natura
-#EXTINF:0, Odisea
-http://tv.fibracat.cat/odisea
+#EXTINF:0, Odisea HD
+http://tv.fibracat.cat/odiseahd
 #EXTINF:0, Sol Música
 http://tv.fibracat.cat/sol
 #EXTINF:0, Somos
 http://tv.fibracat.cat/somos
 #EXTINF:0, Sundance
 http://tv.fibracat.cat/sundance
-#EXTINF:0, XTRM
-http://tv.fibracat.cat/xtrm
+#EXTINF:0, XTRM HD
+http://tv.fibracat.cat/xtrmhd
